@@ -16,6 +16,8 @@ struct node{
         this->next=next;
     }
 };
+//lmlk
+cout<"okl;k";
 struct list{
     int size;
     node* head;
